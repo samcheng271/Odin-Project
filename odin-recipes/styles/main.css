@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+text-align: center;
+background-color: beige;
+position: sticky;
+top: 0;
+left: 0;
+
+}
+
+img{
+    width: 100%;
+}
+
